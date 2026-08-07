@@ -1,0 +1,3 @@
+# data/raw/.gitkeep
+# Place your raw dataset here (e.g., churn_data.csv)
+# This directory stores original, immutable source data.

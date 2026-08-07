@@ -1,0 +1,2 @@
+# models/.gitkeep
+# Trained model files (.joblib, .pkl) will be saved here after running src/train.py

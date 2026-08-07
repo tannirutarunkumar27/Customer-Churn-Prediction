@@ -1,0 +1,15 @@
+# Large datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Trained models
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env

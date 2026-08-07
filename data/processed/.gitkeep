@@ -1,0 +1,3 @@
+# data/processed/.gitkeep
+# Cleaned, encoded, and split data files (X_train.npy, X_test.npy, etc.)
+# will be saved here after running src/data_preprocessing.py
