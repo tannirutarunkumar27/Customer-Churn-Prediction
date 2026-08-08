@@ -100,6 +100,24 @@ Raw Customer Data (1M rows)
 
 ---
 
+## 📸 Dashboard & EDA Visual Showcase
+
+### 🖥️ Streamlit Enterprise Light Dashboard
+| Executive Intelligence | Statistical Distribution (Violin/Box Plots) |
+|---|---|
+| ![Executive Dashboard](reports/figures/linkedin_01_executive_dashboard.png) | ![Violin Box Plots](reports/figures/linkedin_02_violin_box_plots.png) |
+
+| What-If Scenario Simulator | Financial ROI & Action Playbook |
+|---|---|
+| ![What-If Simulator](reports/figures/linkedin_03_what_if_simulator.png) | ![Financial ROI](reports/figures/linkedin_04_financial_roi.png) |
+
+### 📊 Key Feature Exploratory Analysis (EDA)
+| Feature 1: Churn Rate by Contract Type | Feature 2: Monthly Charges Distribution | Feature 3: Satisfaction vs. Complaints |
+|---|---|---|
+| ![Contract Churn](reports/figures/eda_feature1_contract_churn.png) | ![Monthly Charges](reports/figures/eda_feature2_monthly_charges.png) | ![Satisfaction Heatmap](reports/figures/eda_feature3_satisfaction_complaints.png) |
+
+---
+
 ## ✨ Key Platform Features
 
 1. **Light Corporate Design System**: Styled with CSS hover cards (`translateY(-4px)`), smooth transitions, custom risk badges, and clean Plotly light templates (`plotly_white`).
