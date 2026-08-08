@@ -1,15 +1,32 @@
-# Large datasets
+# Large raw datasets
 data/raw/*.csv
 data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/sample_churn_data.zip
+
+# Reports CSVs over 1MB
+reports/customer_risk_scores.csv
 
 # Trained models
 models/*.joblib
+models/*.pkl
+models/*.bin
+!models/.gitkeep
+!models/models.zip
 
-# Python
+# Python & Environment
 __pycache__/
 *.py[cod]
+*$py.class
 .ipynb_checkpoints/
-
-# Virtual environments
+.venv/
 venv/
+ENV/
+env/
 .env
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
